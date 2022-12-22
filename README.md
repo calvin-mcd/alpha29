@@ -8,4 +8,4 @@ Also note, the pcb currently has no mounting holes.
 
 Any questions, contact Calvin\#0563 on Discord.
 
-!\[alpha29 KLE\] (https://github.com/calvin-mcd/alpha29/blob/main/alpha29_KLE.png) 
+![alpha29 KLE](https://github.com/calvin-mcd/alpha29/blob/main/alpha29_KLE.png) 
