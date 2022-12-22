@@ -7,3 +7,5 @@ Please note that this project has *not* been tested and I am *not responsible* f
 Also note, the pcb currently has no mounting holes.
  
 Any questions, contact Calvin#0563 on Discord.
+
+![alpha29 KLE](alpha29 KLE.png)
