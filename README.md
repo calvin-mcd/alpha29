@@ -9,7 +9,7 @@ alpha29 (or mini planck) is a riff on the amazing [alpha28](https://github.com/P
 <a href="https://www.keyboard-layout-editor.com/#/gists/f35a5c950e0317b4dc41fa3c3aa06123">Link<a>
 
 ## Todo
-- [] add mounting holes
+- [ ] add mounting holes
 
 ## Disclaimer
 
