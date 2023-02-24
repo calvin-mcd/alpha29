@@ -8,8 +8,13 @@ alpha29 (or mini planck) is a riff on the amazing [alpha28](https://github.com/P
 
 <a href="https://www.keyboard-layout-editor.com/#/gists/f35a5c950e0317b4dc41fa3c3aa06123">Link<a>
 
+##RGB
+
+Because this board uses a rp2040, you will need to use a logic shifter to utilise the rgb breakout. Something like [this](https://learn.sparkfun.com/tutorials/retired---using-the-logic-level-converter) or [this](https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide) for example.
+
 ## Todo
 - [ ] add mounting holes
+- [ ] create firmware
 
 ## Disclaimer
 
