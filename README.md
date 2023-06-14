@@ -18,7 +18,7 @@ Because this board uses a rp2040, you will need to use a logic shifter to utilis
 
 ## Disclaimer
 
-Please note that this project has _not_ been tested and I am _not responsible_ for any outcomes of its use. However, feel free to edit, modify and otherwise utilise these files.
+Please note that this project is a work in progress with no guarantees of a working outcome. No-one involved in this project is responsible for any usage issues that may arise. However, feel free to edit, modify and otherwise utilise these files.
 
 ## License
 
