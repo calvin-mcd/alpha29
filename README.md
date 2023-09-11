@@ -1,20 +1,20 @@
 # alpha29
 
-alpha29 (or mini planck) is a riff on the amazing [alpha28](https://github.com/PyrooL/Alpha) by PyrooL.
+alpha29 (or mini planck) is a riff on the amazing [alpha28](https://github.com/PyrooL/Alpha) by PyrooL. This project was more of an exercise and is consider finished.
 
 ## Layout
 
-![alpha29 KLE](https://github.com/calvin-mcd/alpha29/blob/main/alpha29_KLE.png) 
+![](https://github.com/calvin-mcd/alpha29/blob/main/Images/alpha29_KLE.png) 
 
-<a href="https://www.keyboard-layout-editor.com/#/gists/f35a5c950e0317b4dc41fa3c3aa06123">Link<a>
+[Link](https://www.keyboard-layout-editor.com/#/gists/f35a5c950e0317b4dc41fa3c3aa06123)
 
 ##RGB
 
 Because this board uses a rp2040, you will need to use a logic shifter to utilise the rgb breakout. Something like [this](https://learn.sparkfun.com/tutorials/retired---using-the-logic-level-converter) or [this](https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide) for example.
 
 ## Todo
-- [ ] add mounting holes
 - [ ] create firmware
+- [ ] create case
 
 ## Disclaimer
 
@@ -28,4 +28,4 @@ This project is released under the GPL v3 License. Please refer to the LICENCE f
 
 huge thanks to Pyrool for the inspiration.
   
-Any questions, contact Calvin\#0563 on Discord.
+Any questions, contact Calvin0563 on Discord.
